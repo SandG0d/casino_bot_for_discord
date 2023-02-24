@@ -9,4 +9,4 @@ bot = commands.Bot(command_prefix="*", intents=disnake.Intents.all())
 async def test(interaction: disnake.AppCmdInter):
     await interaction.send('chto-to')
 
-bot.run("MTA3NDQwNjIyNTc3NDY1NzU2Nw.GeyWXX.Ch6rEajlceNJDhwVsdvynPrrq5ms7U8pSrZMdo")
+bot.run("")
